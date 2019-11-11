@@ -9,3 +9,5 @@ B
 A
 
 red do c
+
+blue do d
